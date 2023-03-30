@@ -1,0 +1,10 @@
+Step:1 I have to make different locatoions database list ---> locations[]
+
+Step:2 I have to take input from user his name and preferred locations.
+
+Step:3 I have to match candidates to their respective preferred locations.
+       For this step I have creted a dictionary and mapped the candidates with
+       their preferred locations.
+
+
+Step:4 Finally I shows the candidates names along with their location.
