@@ -15,10 +15,10 @@ print(locations)
 
 
 #n=input("Enter length")
-d={input("Enter Candidate Name: "):input("Enter preferred location:") for x in range(3)}
+data={input("Enter Candidate Name: "):input("Enter preferred location:") for x in range(3)}
 
 print("Final output")
 
-for candidate in d:
-    if(d[candidate] in locations):
-        print(candidate , d[candidate])
+for candidate in data:
+    if(data[candidate] in locations):
+        print(candidate , data[candidate])
